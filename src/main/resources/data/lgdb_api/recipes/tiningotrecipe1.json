@@ -1,0 +1,11 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "lgdb_api:tinore"
+  },
+  "result": {
+    "item": "lgdb_api:tiningot"
+  }
+}

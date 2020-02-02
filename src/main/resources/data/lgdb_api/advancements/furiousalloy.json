@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "lgdb_api:darksteelingot"
+    },
+    "title": {
+      "translate": "advancements.furiousalloy.title"
+    },
+    "description": {
+      "translate": "advancements.furiousalloy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "furiousalloy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lgdb_api:darksteelingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "lgdb_api:bloodyingot"
+}

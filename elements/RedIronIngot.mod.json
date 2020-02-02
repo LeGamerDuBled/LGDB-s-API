@@ -1,0 +1,15 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedIronItem"
+      }
+    ],
+    "blocks": [],
+    "name": "ingotredIron",
+    "namespace": "forge"
+  }
+}

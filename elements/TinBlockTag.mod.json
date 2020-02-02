@@ -1,0 +1,16 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TinBlock"
+      }
+    ],
+    "functions": [],
+    "name": "blockTin",
+    "namespace": "forge"
+  }
+}

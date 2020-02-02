@@ -1,0 +1,11 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "ingredient": {
+    "item": "lgdb_api:lithiumore"
+  },
+  "result": {
+    "item": "lgdb_api:lithiumshard"
+  }
+}

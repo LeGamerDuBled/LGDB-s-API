@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lgdb_api:blocks/furnace_top",
+    "up": "lgdb_api:blocks/furnace_top",
+    "north": "lgdb_api:blocks/alloy_furnace_front_off",
+    "east": "lgdb_api:blocks/furnace_side",
+    "south": "lgdb_api:blocks/furnace_side",
+    "west": "lgdb_api:blocks/furnace_side",
+    "particle": "lgdb_api:blocks/furnace_top"
+  }
+}

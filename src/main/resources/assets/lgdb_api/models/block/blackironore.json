@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lgdb_api:blocks/black_iron_ore",
+    "up": "lgdb_api:blocks/black_iron_ore",
+    "north": "lgdb_api:blocks/black_iron_ore",
+    "east": "lgdb_api:blocks/black_iron_ore",
+    "south": "lgdb_api:blocks/black_iron_ore",
+    "west": "lgdb_api:blocks/black_iron_ore",
+    "particle": "lgdb_api:blocks/black_iron_ore"
+  }
+}

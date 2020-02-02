@@ -1,0 +1,11 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "lgdb_api:irondust"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

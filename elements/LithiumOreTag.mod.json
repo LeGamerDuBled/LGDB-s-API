@@ -1,0 +1,16 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:LithiumOre"
+      }
+    ],
+    "functions": [],
+    "name": "oreLithium",
+    "namespace": "forge"
+  }
+}

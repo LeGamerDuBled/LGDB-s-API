@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lgdb_api:block/bauxite"
+    }
+  }
+}

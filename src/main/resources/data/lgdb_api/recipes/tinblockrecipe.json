@@ -1,0 +1,42 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lgdb_api:tiningot"
+    },
+    "1": {
+      "item": "lgdb_api:tiningot"
+    },
+    "2": {
+      "item": "lgdb_api:tiningot"
+    },
+    "3": {
+      "item": "lgdb_api:tiningot"
+    },
+    "4": {
+      "item": "lgdb_api:tiningot"
+    },
+    "5": {
+      "item": "lgdb_api:tiningot"
+    },
+    "6": {
+      "item": "lgdb_api:tiningot"
+    },
+    "7": {
+      "item": "lgdb_api:tiningot"
+    },
+    "8": {
+      "item": "lgdb_api:tiningot"
+    }
+  },
+  "result": {
+    "item": "lgdb_api:tinblock",
+    "count": 1
+  }
+}

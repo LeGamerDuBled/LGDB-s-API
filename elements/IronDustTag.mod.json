@@ -1,0 +1,16 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:IronDust"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "dustIron",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lgdb_api:block/alloyfurnace"
+    },
+    "facing=east": {
+      "model": "lgdb_api:block/alloyfurnace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lgdb_api:block/alloyfurnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lgdb_api:block/alloyfurnace",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:LapisDust"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TinyLapisDust"
+      },
+      {
+        "value": "CUSTOM:TinyLapisDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TinyLapisDust"
+      },
+      {
+        "value": "CUSTOM:TinyLapisDust"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "lapisdustrecipe",
+    "namespace": "mod"
+  }
+}

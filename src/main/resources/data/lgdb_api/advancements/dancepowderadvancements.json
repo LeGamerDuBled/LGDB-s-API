@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "lgdb_api:blackirondust"
+    },
+    "title": {
+      "translate": "advancements.dancepowderadvancements.title"
+    },
+    "description": {
+      "translate": "advancements.dancepowderadvancements.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dancepowderadvancements": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "lgdb_api:darkerthancoal"
+}

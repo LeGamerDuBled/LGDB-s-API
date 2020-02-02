@@ -1,0 +1,13 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lgdb_api:tinblock"
+    }
+  ],
+  "result": {
+    "item": "lgdb_api:tiningot",
+    "count": 9
+  }
+}

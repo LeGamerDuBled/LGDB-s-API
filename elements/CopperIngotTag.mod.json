@@ -1,0 +1,16 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CopperIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "ingotCopper",
+    "namespace": "forge"
+  }
+}

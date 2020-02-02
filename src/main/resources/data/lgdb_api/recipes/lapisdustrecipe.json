@@ -1,0 +1,26 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lgdb_api:tinylapisdust"
+    },
+    "1": {
+      "item": "lgdb_api:tinylapisdust"
+    },
+    "2": {
+      "item": "lgdb_api:tinylapisdust"
+    },
+    "3": {
+      "item": "lgdb_api:tinylapisdust"
+    }
+  },
+  "result": {
+    "item": "lgdb_api:lapisdust",
+    "count": 2
+  }
+}

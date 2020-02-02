@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lgdb_api:blocks/bauxite",
+    "up": "lgdb_api:blocks/bauxite",
+    "north": "lgdb_api:blocks/bauxite",
+    "east": "lgdb_api:blocks/bauxite",
+    "south": "lgdb_api:blocks/bauxite",
+    "west": "lgdb_api:blocks/bauxite",
+    "particle": "lgdb_api:blocks/bauxite"
+  }
+}

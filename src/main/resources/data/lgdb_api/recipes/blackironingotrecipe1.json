@@ -1,0 +1,13 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lgdb_api:blackironingotblock"
+    }
+  ],
+  "result": {
+    "item": "lgdb_api:blackironingot",
+    "count": 9
+  }
+}

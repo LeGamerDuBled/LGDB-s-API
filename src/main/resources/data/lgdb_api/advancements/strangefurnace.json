@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "lgdb_api:alloyfurnace"
+    },
+    "title": {
+      "translate": "advancements.strangefurnace.title"
+    },
+    "description": {
+      "translate": "advancements.strangefurnace.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "strangefurnace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lgdb_api:alloyfurnace",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 18
+  },
+  "parent": "lgdb_api:thxfordownload"
+}

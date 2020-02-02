@@ -1,0 +1,42 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "1": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "2": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "3": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "4": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "5": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "6": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "7": {
+      "item": "lgdb_api:brassingotitem"
+    },
+    "8": {
+      "item": "lgdb_api:brassingotitem"
+    }
+  },
+  "result": {
+    "item": "lgdb_api:brassblock",
+    "count": 1
+  }
+}

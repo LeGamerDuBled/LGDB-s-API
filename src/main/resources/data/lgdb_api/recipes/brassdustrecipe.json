@@ -1,0 +1,16 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lgdb_api:copperdust"
+    },
+    {
+      "item": "lgdb_api:tindust"
+    }
+  ],
+  "result": {
+    "item": "lgdb_api:brassdust",
+    "count": 2
+  }
+}

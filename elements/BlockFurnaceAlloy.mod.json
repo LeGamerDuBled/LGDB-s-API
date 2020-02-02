@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:AlloyFurnace"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:AlloyFurnace"
+      }
+    ],
+    "name": "furnaceAlloy",
+    "namespace": "forge"
+  }
+}

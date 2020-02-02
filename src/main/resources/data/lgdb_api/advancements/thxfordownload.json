@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "thxfordownload": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}

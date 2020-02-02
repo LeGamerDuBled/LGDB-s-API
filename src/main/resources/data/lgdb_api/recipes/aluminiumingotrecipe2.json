@@ -1,0 +1,11 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "lgdb_api:bauxitedust"
+  },
+  "result": {
+    "item": "lgdb_api:aluminiumingot"
+  }
+}

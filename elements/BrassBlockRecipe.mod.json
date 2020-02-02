@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrassBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      },
+      {
+        "value": "CUSTOM:BrassIngotItem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "brassblockrecipe",
+    "namespace": "mod"
+  }
+}

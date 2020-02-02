@@ -1,0 +1,42 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lgdb_api:copperingot"
+    },
+    "1": {
+      "item": "lgdb_api:copperingot"
+    },
+    "2": {
+      "item": "lgdb_api:copperingot"
+    },
+    "3": {
+      "item": "lgdb_api:copperingot"
+    },
+    "4": {
+      "item": "lgdb_api:copperingot"
+    },
+    "5": {
+      "item": "lgdb_api:copperingot"
+    },
+    "6": {
+      "item": "lgdb_api:copperingot"
+    },
+    "7": {
+      "item": "lgdb_api:copperingot"
+    },
+    "8": {
+      "item": "lgdb_api:copperingot"
+    }
+  },
+  "result": {
+    "item": "lgdb_api:copperblock",
+    "count": 1
+  }
+}

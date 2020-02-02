@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lgdb_api:blocks/aluminium_block",
+    "up": "lgdb_api:blocks/aluminium_block",
+    "north": "lgdb_api:blocks/aluminium_block",
+    "east": "lgdb_api:blocks/aluminium_block",
+    "south": "lgdb_api:blocks/aluminium_block",
+    "west": "lgdb_api:blocks/aluminium_block",
+    "particle": "lgdb_api:blocks/aluminium_block"
+  }
+}

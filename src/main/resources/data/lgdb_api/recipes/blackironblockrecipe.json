@@ -1,0 +1,42 @@
+{
+  "group": "lgdb_api",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "1": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "2": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "3": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "4": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "5": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "6": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "7": {
+      "item": "lgdb_api:blackironingot"
+    },
+    "8": {
+      "item": "lgdb_api:blackironingot"
+    }
+  },
+  "result": {
+    "item": "lgdb_api:blackironingotblock",
+    "count": 1
+  }
+}
